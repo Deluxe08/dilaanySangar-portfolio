@@ -129,7 +129,7 @@ const expCards = [
     title: "Summer Robotics Camp Volunteer Lead",
     date: "July 2025",
     responsibilities: [
-      "Led lessons in teaching children programming the basics of PID in FLL robots.",
+      "Led lessons in teaching children programming the basics of block code in FLL robots.",
       "Collaborated with the team of camp counsellors to implement lesson plans to enhance the educational experience.",
       "Developed promotional materials and community outreach strategies (e.g., digital marketing, school visits) that successfully increased camp enrollment by 10%",
     ],
@@ -189,14 +189,20 @@ const testimonials = [
     name: "Peter MacKay",
     mentions: "@peterm@dvntoyota.com",
     review:
-      "comment #5 Dilaany...",
+      "Dilaany maintained excellent attendance and was consistently punctual and
+dependable. In a fast-paced dealership environment, she proved herself reliable and
+professional. She followed safety protocols carefully and handled both tools and
+customer vehicles with responsibility and care.",
     imgPath: "/images/peter.png",
   },
   {
     name: "Victor Kong",
     mentions: "@victor.kong567@gmail.com",
     review:
-      "comment #6",
+      "What set Dilaany apart was her strong work ethic and eagerness to learn. She asked
+thoughtful questions, sought feedback, and applied what she learned quickly and
+effectively. Over time, she worked with increasing independence and efficiency,
+showing noticeable growth in both technical ability and confidence.",
     imgPath: "/images/victor.png",
   },
   {
