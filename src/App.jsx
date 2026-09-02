@@ -48,11 +48,7 @@ const HomePage = () => (
         <Navbar />
         <Hero />
         <ShowcaseSection />
-       // <FeatureCards />
-        <Experience />
-       // <TechStack />
-       // <Testimonials />
-       // <Contact />
+        <Contact />
         <Footer />
     </>
 );
