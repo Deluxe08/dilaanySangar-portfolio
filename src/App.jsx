@@ -48,11 +48,11 @@ const HomePage = () => (
         <Navbar />
         <Hero />
         <ShowcaseSection />
-        <FeatureCards />
+       // <FeatureCards />
         <Experience />
-        <TechStack />
-        <Testimonials />
-        <Contact />
+       // <TechStack />
+       // <Testimonials />
+       // <Contact />
         <Footer />
     </>
 );
